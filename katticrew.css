@@ -1,0 +1,189 @@
+body
+{
+	/*background-image: url(wedding11.jpg);
+	background-size: cover;
+    background-position: center; 
+    line-height: 0;*/
+}
+#content
+{
+	padding-top: 20px;
+	text-align: center;
+}
+
+a:hover
+{
+	color:red;
+}
+
+a
+{
+	font-family: 'Artifika', serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: white;
+
+}
+
+
+.navbar
+{
+	
+	font-family: 'Artifika', serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: white;
+	
+}
+
+.navbar, .navbar-inverse
+{
+	padding:0;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img 
+{
+    display: block;
+    max-width: 100%;
+    height: 80%;
+    padding-bottom: 10px;
+}
+
+/*.carousel slide
+{
+	padding-bottom: 0;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img
+{
+	line-height: 0;
+}*/
+
+.thumbnail>img, .myclass
+{
+	display: block;
+	height: 300px;
+	max-width: 100%;
+	line-height: 1.42857143;
+	    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+/*.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(jumboback.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}*/
+
+.jumbotron {
+    background: none
+}
+
+
+
+h1
+{
+	font-family:'Lato', sans-serif;
+}
+
+.Lobsternav
+{
+	font-family: 'Artifika', serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: white;
+	
+}
+
+.Lobster
+{
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0.1,0.1,0.1,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.white
+{
+	font-family: 'Artifika', serif;
+	color: white;
+	font-weight: 700;
+	font-size: 4em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h3
+{
+	font-family: 'Lobster', cursive;
+	color: white;
+
+}
+
+.yourplace
+{
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0.1,0.1,0.1,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+
+hr.style-one {
+padding: 0;
+border: none;
+height: 1px;
+background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+color: #333;
+text-align: center;
+}
+
+hr.style-one:after {
+content:" ";
+display: inline-block;
+position: relative;
+top: -2.1em;
+font-size: 1.5em;
+padding: 19px 1.75em;
+background:url(image/star2.png) no-repeat scroll center;
+background-size: 90px 90px;
+height: 50px;
+}
+
+.whatwedo
+{
+
+
+font-family:'Lobster', cursive;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 30px;
+
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0.1,0.1,0.1,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+img {
+	width: 100%;
+}
+
+
+hr.style-seven { overflow: visible; /* For IE */ height: 30px; border-style: solid; border-color: black; border-width: 1px 0 0 0; border-radius: 20px; } hr.style-seven:before { /* Not really supposed to work, but does */ display: block; content: ""; height: 30px; margin-top: -31px; border-style: solid; border-color: black; border-width: 0 0 1px 0; border-radius: 20px; }
+
